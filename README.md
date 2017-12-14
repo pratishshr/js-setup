@@ -1,3 +1,3 @@
 # js-setup
 
-> Simple setup for creating JS libraries.
+> Simple setup for creating Javascript libraries.
